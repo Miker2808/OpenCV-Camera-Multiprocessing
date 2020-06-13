@@ -8,3 +8,8 @@ This process can send few frames at the time before locking the camera (for exam
 you can simply play with the flags to decide when to receive a frame and when not.
 
 The idea of this python file is to ease with people sturggling with a buffer and want a ready solution.
+
+Requirements:
+Python 3
+Opencv for python
+numpy
